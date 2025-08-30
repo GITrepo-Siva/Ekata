@@ -1,6 +1,6 @@
 # Ekata Earth Dynamic Pricing Engine
 
-## An Academic Project Report
+## Digital Transformation Project Report
 
 **Course:** Digital Transformation  
 
