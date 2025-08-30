@@ -3,8 +3,11 @@
 ## An Academic Project Report
 
 **Course:** Digital Transformation  
+
 **Institution:** IIM Jammu
+
 **Prepared By:** Group - 7 IIM Jammu
+
 Team Members: 
 1. Aditi Raizada
 2. Aditi Yadav
